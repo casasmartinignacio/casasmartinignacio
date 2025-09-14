@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Martin Ignacio Casas
 
-<!--
-**casasmartinignacio/casasmartinignacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Informatics Engineer** – Graduated in 2022  
+🌐 **Aspiring Web3 Developer** – Currently learning how to build decentralized applications and implement smart contracts from scratch  
+💻 Passionate about **blockchain, Ethereum, and smart contract security**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Interests
+- **Programming:** JavaScript, TypeScript, Node.js  
+- **Blockchain:** Ethereum, Solidity, Smart Contracts  
+---
+
+## 📫 Let’s Connect
+- GitHub: [casasmartinignacio](https://github.com/casasmartinignacio)  
